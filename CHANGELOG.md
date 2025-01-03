@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.7](https://github.com/justsmth/cc-rs/compare/cc-v1.2.6...cc-v1.2.7) - 2025-01-03
+
+### Other
+
+- Allow using Visual Studio target names in `find_tool` ([#1335](https://github.com/justsmth/cc-rs/pull/1335))
+
 ## [1.2.6](https://github.com/rust-lang/cc-rs/compare/cc-v1.2.5...cc-v1.2.6) - 2024-12-27
 
 ### Other
